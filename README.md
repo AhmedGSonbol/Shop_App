@@ -1,16 +1,18 @@
-# shopapp
+السلام عليكم
+تطبيق شراء بضائع اونلاين شبيهاً لـ سوق دوت كوم و امازون بإستخدام (Flutter)
 
-A new Flutter project.
+خصائص المشروع
+-تسجيل الدخول و تسجيل حساب جديد
+-إضافة المنتجات الي المفضلة
+-معرفة تفاصيل اكثر عن المُنتج في شاشة مُنفصلة
+-إضافة المنتجات الي سلة المشتريات
+-زيادة عدد الأصناف المُشتراه
+-معرفة إجمالي ثمن المشتريات
+-البحث عن صنف معين بإسمة
+-البحث عن عدة أصناف بالمجموعة الخاصة بها
+-تعديل في حسابك الشخصي
+-التحويل بين (Dark / White) Mode
+-التحويل بين اللغتين العربية و الإنحليزيه
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+رابط تحميل تطبيق الاندرويد :- 
+https://www.mediafire.com/file/9kikolwd53rf05r/SallaApp.apk/file
