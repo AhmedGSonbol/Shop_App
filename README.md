@@ -1,6 +1,7 @@
 
 <h1>Salla App</h1>
-Is An application that was created to purchase goods online similar to Souq.com and Amazon using (Flutter).
+
+Is An application that was created to purchase goods online similar to Souq.com and Amazon using (Flutter).<br>
 
 - Project characteristics:-
   
