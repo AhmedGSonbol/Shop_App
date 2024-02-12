@@ -5,26 +5,26 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Project characteristics:-
   
- -Log in and register a new account<br>
- -Add products to favorites<br>
- -Know more details about the product in a separate screen<br>
- -Add products to the shopping cart<br>
- -Increasing the number of items purchased<br>
- -Knowing the total price of purchases<br>
- -Search for a specific category by name<br>
- -Search for several items in their own group<br>
- -Modify your personal account<br>
- -Switch between dark and light mode<br>
- -Conversion between Arabic and English<br>
+  - Log in and register a new account<br>
+  - Add products to favorites<br>
+  - Know more details about the product in a separate screen<br>
+  - Add products to the shopping cart<br>
+  - Increasing the number of items purchased<br>
+  - Knowing the total price of purchases<br>
+  - Search for a specific category by name<br>
+  - Search for several items in their own group<br>
+  - Modify your personal account<br>
+  - Switch between dark and light mode<br>
+  - Conversion between Arabic and English<br>
 
 
 - Techhnologies used :-
-  
- -Flutter<br>
- -Dart<br>
- -Bloc & Cubit<br>
- -API<br>
- -Shared Preferences<br>
+
+  - Flutter
+  - Dart
+  - Bloc & Cubit
+  - API
+  - Shared Preferences
 
 - APK Download :- https://www.mediafire.com/file/9kikolwd53rf05r/SallaApp.apk/file
 
