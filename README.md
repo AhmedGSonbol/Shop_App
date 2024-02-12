@@ -1,3 +1,6 @@
+
+APK Download :- https://www.mediafire.com/file/9kikolwd53rf05r/SallaApp.apk/file
+
 السلام عليكم
 تطبيق شراء بضائع اونلاين شبيهاً لـ سوق دوت كوم و امازون بإستخدام (Flutter)
 
@@ -13,6 +16,3 @@
 -تعديل في حسابك الشخصي
 -التحويل بين (Dark / White) Mode
 -التحويل بين اللغتين العربية و الإنحليزيه
-
-رابط تحميل تطبيق الاندرويد :- 
-https://www.mediafire.com/file/9kikolwd53rf05r/SallaApp.apk/file
