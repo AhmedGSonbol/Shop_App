@@ -34,7 +34,7 @@ Is An application that was created to purchase goods online similar to Souq.com 
   
 
 
-<div float="left">
+<p float="left">
   <div>
     <p>Screen1</p>
      <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250" />
@@ -48,7 +48,7 @@ Is An application that was created to purchase goods online similar to Souq.com 
      <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250" />
   </div>
  
-  </div>
+  </p>
 
 ![Screen1](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d)
 ![Screen2](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c)
