@@ -35,18 +35,18 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 
 <p float="left">
-  <div>
+  <p>
     <p>Screen1</p>
      <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250" />
-  </div>
-   <div>
+  </p>
+   <p>
     <p>Screen1</p>
      <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250" />
-  </div>
-   <div>
+  </p>
+   <p>
     <p>Screen1</p>
      <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250" />
-  </div>
+  </p>
  
   </p>
 
