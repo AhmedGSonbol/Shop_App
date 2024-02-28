@@ -30,44 +30,17 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-  <div style="display: flex; flex-direction: row;">
-     <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-     <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-     <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-     <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-  </div>
 
-<div>
- 
-  <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-  <div>
-    <p>Screen1</p>
-    <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-  </div>
-  
   <p>Screen2</p>
-  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c" width="250"/>
 
-![Screen3](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/c07a06ff-7740-4130-92ab-2176f3ddc6f5)
-</div>
-<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-<img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="250"/>
-![Screen2](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c)
+  Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Screen1](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d)  |  ![Screen2](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c)
+
+
+
+
+
 ![Screen3](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/c07a06ff-7740-4130-92ab-2176f3ddc6f5)
 ![Screen4](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/94050899-ded7-4433-b84e-692c6a8a08c8)
 ![Screen5](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/a6daa18b-bff7-47e9-8c32-c63779007401)
