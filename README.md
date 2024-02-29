@@ -42,9 +42,9 @@ Is An application that was created to purchase goods online similar to Souq.com 
      <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 height=480></td>
-    <td><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
-    <td><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
+    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 height=480></td>
+    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
+    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
   </tr>
  </table>
 
