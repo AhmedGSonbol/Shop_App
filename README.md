@@ -30,10 +30,15 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-<p float="left">
-  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 height=480 />
-  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480 />
-  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480 />
+<p float="center">
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
 </p>
   
 
