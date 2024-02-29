@@ -30,23 +30,16 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-
+<p float="left">
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 height=480 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480 />
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480 />
+</p>
   
 
 
 
-  <table>
-  <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327dg" width=270 height=480></td>
-    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
-    <td valign="top"><img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 height=480></td>
-  </tr>
- </table>
+
 
 ![Screen1](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d)
 ![Screen2](https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c)
