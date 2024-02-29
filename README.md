@@ -30,7 +30,7 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-<p float="left" align="center">
+<p display="grid" grid-auto-flow="column" grid-column-gap= "10px" align="center">
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/c07a06ff-7740-4130-92ab-2176f3ddc6f5" width=270 />
