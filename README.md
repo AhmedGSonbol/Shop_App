@@ -30,8 +30,8 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-<div display="grid" grid-auto-flow="column" grid-column-gap= "100px" grid-row-gap= "100px" align="center">
-  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="270" hspace="20"/>
+<div display="grid" grid-auto-flow="column" align="center">
+  <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width="270" hspace="20" alt="hello" title="Angular"/>
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c" width="270" hspace="20"/>
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/c07a06ff-7740-4130-92ab-2176f3ddc6f5" width="270" hspace="20"/>
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/94050899-ded7-4433-b84e-692c6a8a08c8" width=270 hspace="20"/>
