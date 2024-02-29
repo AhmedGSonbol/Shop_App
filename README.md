@@ -30,7 +30,7 @@ Is An application that was created to purchase goods online similar to Souq.com 
 
 - Application Images :-
 
-<p display="grid" grid-auto-flow="column" grid-column-gap= "100px" grid-row-gap= "100px" align="center">
+<div display="grid" grid-auto-flow="column" grid-column-gap= "100px" grid-row-gap= "100px" align="center">
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/0f066dec-63ff-488e-a92e-216326b8327d" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/d70058e3-8da3-4849-8634-07fe1759bd9c" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/c07a06ff-7740-4130-92ab-2176f3ddc6f5" width=270 />
@@ -51,4 +51,4 @@ Is An application that was created to purchase goods online similar to Souq.com 
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/1f44ce39-ac61-4211-aabf-252d0b69f677" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/aac7116a-36e5-417c-b0a0-ec8eea7a606f" width=270 />
   <img src="https://github.com/AhmedGSonbol/Shop_App/assets/126677774/124edd67-171a-4151-ae63-256a6a761a95" width=270 />
-</p>
+</div>
